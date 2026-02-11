@@ -1,3 +1,12 @@
+# 2026 Roadmap:
+
+## Hotend Support / Filament Cutter Support List:
+
+* CHC-XL
+* Rapido 2 UHF
+
+* Thunderkeys FilamATrix
+
 # SB-COM
 StealthBurner but good COM
 
