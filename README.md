@@ -20,3 +20,6 @@ I do not expect the Carriage to have a perfect COM, however, its interesting to 
 ## UPDATE, added CW2 Assembly, NOTE- The Motor is not right yet, I need to weight my LDO stepper motor before adding the weight...
 
 <img width="3000" height="1004" alt="9mm SB CW2" src="https://github.com/user-attachments/assets/690e45c6-8b80-4033-9ae8-84f2ba03427d" />
+
+
+![SB ALL TOGETHER](https://github.com/user-attachments/assets/8697b763-df04-4c43-b086-2a0f6f73c4d3)
