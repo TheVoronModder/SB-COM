@@ -1,3 +1,16 @@
+<img width="5000" height="1536" alt="b0d03eb7-12d6-4117-8e73-5961d989d06b" src="https://github.com/user-attachments/assets/6b8c1d8d-1353-49e9-bde9-b785490d56b5" />
+
+# Introduction
+
+Save the StealthBurner!
+
+Whats going on here?
+
+Simply put, I personally feel the StealthBurner toolhead gets a bad rap. It totally does in stock form, so I wanted to save it beacuse its what made me want to build a Voron printer...
+
+
+
+
 # 2026 Roadmap:
 
 ## Hotend Support / Filament Cutter Support List:
