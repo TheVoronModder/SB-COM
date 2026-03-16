@@ -7,6 +7,13 @@
 -------------------------
 * Thunderkeys FilamATrix
 
+# Important Weights
+* ECAS - 1 gram
+* Cartographer v3 - 4 grams
+* 4010 Winsinn Amazon fan - 11 grams (regular fans without deep set holes for SHCS is 13 grams)
+* Rapido 2 UHF - 47 grams
+* LDO-36STH20-1004AHG - 85 grams
+
 # SB-COM
 StealthBurner but good COM
 
