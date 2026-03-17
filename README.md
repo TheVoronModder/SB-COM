@@ -58,7 +58,8 @@ To fix this:
 
 - Printed a real part  
 - Measured actual weight  
-- Back-calculated density for accurate COM simulation  
+- Back-calculated density for accurate COM simulation
+- New Density=Current Density×Current Mass / Target Mass​
 
 ---
 
