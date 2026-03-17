@@ -1,6 +1,6 @@
 ![Voron](https://img.shields.io/badge/Voron-Compatible-red)
 ![Toolhead](https://img.shields.io/badge/Toolhead-StealthBurner-black)
-![Belts](https://img.shields.io/badge/Belts-9mm-green)
+![Belts](https://img.shields.io/badge/Belts-9mm=and-6mm-green)
 ![Hotend](https://img.shields.io/badge/Hotend-Rapido%202%20UHF-orange)
 ![Status](https://img.shields.io/badge/Status-Experimental-yellow)
 
