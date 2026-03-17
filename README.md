@@ -77,112 +77,118 @@ I do not expect the Carriage to have a perfect COM, however, its interesting to 
 
 
 
-
-
-
+-------------------------------------------------------------------------------------------------
 
 
 <img width="5000" height="1543" alt="Save The StealthBurner" src="https://github.com/user-attachments/assets/9c4654dc-24c3-4824-9c3b-07462d038b1f" />
-Save the StealthBurner
-Introduction
 
-Save the StealthBurner.
+# Save the StealthBurner
 
-So what's going on here?
+> Improving the StealthBurner toolhead through better COM, smarter design, and real-world data.
 
-Simply put, the StealthBurner toolhead gets a bad rap. In stock form, some of that criticism is deserved. But it's also the toolhead that inspired me to build my first Voron printer, so I wanted to see if it could be improved instead of abandoned.
+---
 
-This project focuses on improving:
+## Introduction
 
-Center of Mass (COM)
+**Save the StealthBurner.**
 
-Hotend compatibility
+So what’s going on here?
 
-Toolhead rigidity
+The StealthBurner toolhead gets a bad rap — and honestly, in stock form, some of that is fair.  
+But it’s also the toolhead that got me into building a Voron in the first place.
 
-Weight distribution
+So instead of ditching it…  
+**we fix it.**
 
-The goal is simple:
+---
 
-Keep the StealthBurner aesthetic and ecosystem — but make it perform better.
+## Current Roadmap
 
-Current Roadmap
+- Rapido 2 UHF integration
+- Thunderkeys FilamATrix support
 
-Finalizing Rapido 2 UHF support
+---
 
-Thunderkeys FilamATrix integration
+## 2026 (→ 2027) Roadmap
 
-2026 (Closer to 2027) Roadmap
-Hotend / Filament Cutter Support
+### Hotend / Filament Cutter Support
 
-Planned support includes:
+- CHC-XL  
+- Rapido 2 UHF  
+- Thunderkeys FilamATrix  
 
-CHC-XL
+---
 
-Rapido 2 UHF
+## COM Calibration Method
 
-Thunderkeys FilamATrix
+Before we dive in:
 
-COM Calculations
+Fusion 360 calculates **solid mass (no air)**.  
+3D printed parts are not solid — even at 100% infill — so calculated weights are inaccurate.
 
-Before diving in, there are a couple of important notes.
+To fix this:
 
-Fusion 360 calculates solid mass, meaning no air volume inside the model. When we 3D print parts, however, air is trapped within the infill structure. Even at 100% infill, the printed part may not weigh the same as a solid injection-molded part.
+- Printed a real part  
+- Measured actual weight  
+- Back-calculated density for accurate COM simulation  
 
-Additionally, many of these parts are not suitable for injection molding anyway, so the mass calculations must be adjusted.
+---
 
-To solve this:
+### Print Settings Used
 
-I printed a single reference part, measured its actual weight, and used that data to determine the proper density ratio so Fusion can more accurately calculate COM.
-
-Printing Rules Used for Calibration
-
-All COM calculations are based on the following print configuration:
-
-4 Walls
-
-4 Top / Bottom Layers
-
-40% Rectilinear Infill
-
-0.4 mm Nozzle
-
-Ambrosia ASA
+- 4 walls  
+- 4 top / bottom layers  
+- 40% rectilinear infill  
+- 0.4 mm nozzle  
+- Ambrosia ASA  
 
 <img width="3000" height="700" alt="COM Weight Issues" src="https://github.com/user-attachments/assets/ddc78743-416e-417e-9333-a8aa3d476adc" />
-Important Component Weights
 
-Reference weights used for COM simulation:
+---
 
-ECAS fitting — 1 g
+## Important Component Weights
 
-Cartographer v3 probe — 4 g
+| Component | Weight |
+|----------|--------|
+| ECAS fitting | 1 g |
+| Cartographer v3 | 4 g |
+| 4010 Winsinn fan | 11 g |
+| Standard 4010 fan | 13 g |
+| Rapido 2 UHF | 47 g |
+| LDO-36STH20-1004AHG | 85 g |
 
-4010 Winsinn fan (Amazon) — 11 g
+---
 
-Standard fans without deep SHCS mounting holes — 13 g
+## SB-COM
 
-Rapido 2 UHF hotend — 47 g
+**StealthBurner — optimized for center of mass**
 
-LDO-36STH20-1004AHG stepper motor — 85 g
+---
 
-SB-COM
+### MGN12 Printed Carriage  
+#### (Monolith 9mm Belt Compatible)
 
-StealthBurner with improved Center of Mass
-
-MGN12 Printed Carriage
-Designed for Monolith 9mm Belts
 <img width="3000" height="1004" alt="9mm SB MGN12 Carriage" src="https://github.com/user-attachments/assets/aa2d6445-0bf2-4028-8113-7183827e065e" />
 
-I do not expect the carriage to achieve a perfect COM, but it is interesting to see where the design lands after several modifications.
+This carriage is not expected to have perfect COM — but it's a major improvement.
 
-One key change is eliminating heat inserts on the face of the toolhead mount, replacing them with 304 stainless steel square nuts for improved serviceability and strength.
+Key change:
+- Replaced heat inserts with **304 stainless square nuts**
+- Cleaner load path + better serviceability
 
-Update
+---
 
-CW2 assembly has been added for further testing.
+### Update — CW2 Assembly Added
 
-Note:
-The motor weight is currently incorrect in the model. I still need to weigh my actual LDO stepper motor before adding the correct value to the COM calculation.
+⚠️ Motor weight not finalized yet  
+(Need to measure actual LDO stepper before updating COM model)
 
 <img width="3000" height="1004" alt="9mm SB CW2" src="https://github.com/user-attachments/assets/690e45c6-8b80-4033-9ae8-84f2ba03427d" />
+
+---
+
+![SB ALL TOGETHER](https://github.com/user-attachments/assets/8697b763-df04-4c43-b086-2a0f6f73c4d3)
+
+
+
+
