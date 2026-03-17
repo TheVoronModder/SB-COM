@@ -61,6 +61,8 @@ To fix this:
 - Back-calculated density for accurate COM simulation
 - New Density = Current Density × (Target Mass ÷ Current Mass)​
 
+## Check out my Fusion 360 Density calculator here: https://thevoronmodder.github.io/SB-COM/
+
 ---
 
 ### Print Settings Used
