@@ -1,4 +1,8 @@
-
+![Voron](https://img.shields.io/badge/Voron-Compatible-red)
+![Toolhead](https://img.shields.io/badge/Toolhead-StealthBurner-black)
+![Belts](https://img.shields.io/badge/Belts-9mm-green)
+![Hotend](https://img.shields.io/badge/Hotend-Rapido%202%20UHF-orange)
+![Status](https://img.shields.io/badge/Status-Experimental-yellow)
 
 <img width="5000" height="1543" alt="Save The StealthBurner" src="https://github.com/user-attachments/assets/9c4654dc-24c3-4824-9c3b-07462d038b1f" />
 
