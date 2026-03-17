@@ -1,4 +1,7 @@
-<img width="5000" height="1536" alt="b0d03eb7-12d6-4117-8e73-5961d989d06b" src="https://github.com/user-attachments/assets/6b8c1d8d-1353-49e9-bde9-b785490d56b5" />
+
+
+<img width="5000" height="1543" alt="Save The StealthBurner" src="https://github.com/user-attachments/assets/9c4654dc-24c3-4824-9c3b-07462d038b1f" />
+
 
 # Introduction
 
