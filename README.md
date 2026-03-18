@@ -12,30 +12,18 @@
 
 # Save the StealthBurner
 
-Save the StealthBurner.
-
 So what’s really going on here?
 
-The StealthBurner toolhead gets a lot of hate.
-And honestly… in stock form, some of that criticism is fair.
-
-It’s bulky.
-The airflow isn’t great.
-And people are quick to replace it with the next shiny thing.
+The StealthBurner toolhead gets a lot of hate. And honestly… in stock form, some of that criticism is fair. It’s bulky. The airflow isn’t great. And people are quick to replace it with the next shiny thing.
 
 But here’s the thing:
 
-StealthBurner is what got me into building a Voron in the first place.
+StealthBurner is what got me into building a Voron in the first place. So instead of throwing it away… Instead of pretending the design is perfect…
 
-So instead of throwing it away…
-
-Instead of pretending the design is perfect…
-
-we fix it.
-
-We rethink it.
-We refine it.
-We push it further than it was ever meant to go.
+## we fix it.
+## We rethink it.
+## We refine it.
+## We push it further than it was ever meant to go.
 
 Because sometimes the best designs
 aren’t the ones you replace—
