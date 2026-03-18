@@ -97,32 +97,6 @@ To fix this:
 <img width="5000" height="1200" alt="part list" src="https://github.com/user-attachments/assets/b4520a55-ce8e-440b-a9b1-9cad9e199fc4" />
 
 
-## SB-COM
 
-**StealthBurner — optimized for center of mass**
-
----
-
-### MGN12 Printed Carriage  
-#### (Monolith 9mm Belt Compatible)
-
-<img width="3000" height="1004" alt="9mm SB MGN12 Carriage" src="https://github.com/user-attachments/assets/aa2d6445-0bf2-4028-8113-7183827e065e" />
-
-This carriage is not expected to have perfect COM — but it's a major improvement.
-
-Key change:
-- Replaced heat inserts with **304 stainless square nuts**
-- Cleaner load path + better serviceability
-
----
-
-### Update — CW2 Assembly Added
-
-⚠️ Motor weight not finalized yet  
-(Need to measure actual LDO stepper before updating COM model)
-
-<img width="3000" height="1004" alt="9mm SB CW2" src="https://github.com/user-attachments/assets/690e45c6-8b80-4033-9ae8-84f2ba03427d" />
-
----
 
 ![SB ALL TOGETHER](https://github.com/user-attachments/assets/8697b763-df04-4c43-b086-2a0f6f73c4d3)
