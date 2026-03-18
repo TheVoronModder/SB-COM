@@ -20,7 +20,7 @@ But here’s the thing:
 
 StealthBurner is what got me into building a Voron in the first place. So instead of throwing it away… Instead of pretending the design is perfect…
 
-## we fix it.
+## We fix it.
 ## We rethink it.
 ## We refine it.
 ## We push it further than it was ever meant to go.
