@@ -97,9 +97,9 @@ These are all printed using Ambrosia ASA Filament, please note your filament wei
 
 | Component | Weight |
 |----------|--------|
-| Rapdio 2 UHF 6mm Voron Style Back Plate | 26g (printed total weight) - 5 walls, 5 top/bottom 100% rectilinear infill |
-| CW3 Cover NON MMU | 20g (printed total weight) - 5 walls, 5 top/bottom 20% rectilinear infill |
-| CW3 Counter Weight | 18g (printed total weight) - 5 walls, 5 top/bottom 100% rectilinear infill |
+| Rapdio 2 UHF 6mm Voron Style Back Plate | 26g (printed total weight) - 5 walls, 5 top/bottom 100% rectilinear infill | Reflected in Fusion CAD file |
+| CW3 Cover NON MMU | 20g (printed total weight) - 5 walls, 5 top/bottom 20% rectilinear infill | Reflected in Fusion CAD file |
+| CW3 Counter Weight | 18g (printed total weight) - 5 walls, 5 top/bottom 100% rectilinear infill | Reflected in Fusion CAD file |
 
 
 ---
