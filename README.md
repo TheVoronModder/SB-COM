@@ -92,6 +92,16 @@ To fix this:
 | Rapido 2 UHF | 47 g |
 | LDO-36STH20-1004AHG | 85 g |
 
+## Important Printed Part weights:
+These are all printed using Ambrosia ASA Filament, please note your filament weights may be slightly different due to filament manufacturing and filament mix, Ambrosia is known to have some PETG very minimal though.
+
+| Component | Weight |
+|----------|--------|
+| Rapdio 2 UHF 6mm Voron Style Back Plate | 26g (printed total weight) - 5 walls, 5 top/bottom 100% rectilinear infill |
+| CW3 Cover NON MMU | 20g (printed total weight) - 5 walls, 5 top/bottom 20% rectilinear infill |
+| CW3 Counter Weight | 18g (printed total weight) - 5 walls, 5 top/bottom 100% rectilinear infill |
+
+
 ---
 
 <img width="5000" height="1200" alt="part list" src="https://github.com/user-attachments/assets/b4520a55-ce8e-440b-a9b1-9cad9e199fc4" />
