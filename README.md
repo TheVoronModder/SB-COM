@@ -76,7 +76,7 @@ To fix this:
 
 <img width="3000" height="700" alt="COM Weight Issues" src="https://github.com/user-attachments/assets/ddc78743-416e-417e-9333-a8aa3d476adc" />
 
-## Image shows the variance from CAD to SLICER and of course real world weights using my wifes Sourdough kitchen scale 🤣
+## Image shows the weight variance between CAD and SLICER... The real world weights found below are from using my wifes Sourdough kitchen scale 🤣
 ---
 
 ## Important Component Weights
