@@ -28,7 +28,7 @@ StealthBurner is what got me into building a Voron in the first place. So instea
 Because sometimes the best designs
 aren’t the ones you replace—
 
-they’re the ones you evolve.
+they are the ones you **evolve**.
 
 Save the StealthBurner.
 
@@ -38,18 +38,10 @@ Save the StealthBurner.
 
 - Rapido 2 UHF integration
 - Thunderkeys FilamATrix support
+- Goliath / CHC XL hotend 
 
 ---
 
-## 2026 (→ 2027) Roadmap
-
-### Hotend / Filament Cutter Support
-
-- CHC-XL  
-- Rapido 2 UHF  
-- Thunderkeys FilamATrix  
-
----
 
 ## COM Calibration Method
 
@@ -108,5 +100,9 @@ These are all printed using Ambrosia ASA Filament, please note your filament wei
 
 
 
-
+MANY THANKS:
+| Item | Link |
+|----------|------------------------|
+| Voron Stealthburner | https://github.com/VoronDesign/Voron-Stealthburner|
+| FilamATrix |  https://github.com/thunderkeys/FilamATrix/tree/main |
 
