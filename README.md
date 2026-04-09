@@ -32,7 +32,6 @@ they are the ones you **evolve**.
 
 Save the StealthBurner.
 
-<img width="4016" height="1142" alt="monolith 6mm and 9mm MMU Support Filamatrix" src="https://github.com/user-attachments/assets/7d745766-0f54-464f-94c8-2a5badd90c29" />
 
 ---
 
@@ -42,6 +41,9 @@ Save the StealthBurner.
 - Thunderkeys FilamATrix support
 - Goliath / CHC XL hotend
 - Monolith Gantry Support
+
+## Monolith Below
+<img width="4016" height="1142" alt="monolith 6mm and 9mm MMU Support Filamatrix" src="https://github.com/user-attachments/assets/7d745766-0f54-464f-94c8-2a5badd90c29" />
 
 ## Future Roadmap
 
