@@ -32,7 +32,7 @@ they are the ones you **evolve**.
 
 Save the StealthBurner.
 
-
+# Disclaimer: the air ducts are an improvement on the current design, however, there is more work to be done, Its easy to re print hotend mounts and install them so its okay that it will be fine tuned later 😉
 ---
 
 ## Current Roadmap
