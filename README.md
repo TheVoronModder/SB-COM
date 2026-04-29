@@ -14,10 +14,13 @@
 
 StealthBurner helped shape modern DIY 3D printer toolhead design, and the Voron development team deserves credit for the huge amount of work, testing, and community support that made it what it is today.
 
-This project is not about replacing StealthBurner.
-It is about exploring what happens when we take the platform further using a CPAP-focused cooling approach while still respecting the original design philosophy that made StealthBurner so popular.
+This project is about reworking and replacing major portions of the original StealthBurner cooling system with a CPAP-based approach designed around higher airflow, improved thermal performance, and continued experimentation.
 
-Our goal is simple:
+While the cooling system is changing significantly, the goal is still to respect the foundation and design language that made StealthBurner such an important part of the Voron ecosystem.
+
+At its core, this project is focused on pushing the platform further through CPAP cooling, iterative engineering, and real-world testing.
+
+# Our goal is simple:
 
 * Keep the spirit of StealthBurner alive
 * Improve cooling performance through CPAP
