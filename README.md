@@ -12,25 +12,24 @@
 
 # Save the StealthBurner
 
-So what’s really going on here?
+StealthBurner helped shape modern DIY 3D printer toolhead design, and the Voron development team deserves credit for the huge amount of work, testing, and community support that made it what it is today.
 
-The StealthBurner toolhead gets a lot of hate. And honestly… in stock form, some of that criticism is fair. It’s bulky. The airflow isn’t great. And people are quick to replace it with the next shiny thing.
+This project is not about replacing StealthBurner.
+It is about exploring what happens when we take the platform further using a CPAP-focused cooling approach while still respecting the original design philosophy that made StealthBurner so popular.
 
-But here’s the thing:
+Our goal is simple:
 
-StealthBurner is what got me into building a Voron in the first place. So instead of throwing it away… Instead of pretending the design is perfect…
+* Keep the spirit of StealthBurner alive
+* Improve cooling performance through CPAP
+* Continue experimenting, refining, and sharing results with the community
+* Build on the foundation the Voron team created
 
-## We fix it.
-## We rethink it.
-## We refine it.
-## We push it further than it was ever meant to go.
+At this time, this project is CPAP ONLY.
+The current focus is centered around high-airflow cooling development, duct refinement, weight balancing, and real-world print performance testing.
 
-Because sometimes the best designs
-aren’t the ones you replace—
+We are still actively testing and improving the design. Some areas are complete, while others are still evolving as more data and feedback come in.
 
-they are the ones you **evolve**.
-
-Save the StealthBurner.
+Because sometimes the best designs are the ones that continue to evolve.
 
 # Disclaimer: the air ducts are an improvement on the current design, however, there is more work to be done, Its easy to re print hotend mounts and install them so its okay that it will be fine tuned later 😉
 ---
