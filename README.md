@@ -12,13 +12,15 @@
 
 # Save the StealthBurner
 
-StealthBurner helped shape modern DIY 3D printer toolhead design, and the Voron development team deserves credit for the huge amount of work, testing, and community support that made it what it is today.
+StealthBurner helped shape modern DIY 3D printer toolhead design, and the Voron development team deserves huge credit for the years of work, testing, and community support that made it what it is today.
 
-This project is about reworking and replacing major portions of the original StealthBurner cooling system with a CPAP-based approach designed around higher airflow, improved thermal performance, and continued experimentation.
+This project explores what happens when the platform is pushed further using a CPAP-focused cooling approach designed around higher airflow, improved thermal performance, and continued experimentation.
 
-While the cooling system is changing significantly, the goal is still to respect the foundation and design language that made StealthBurner such an important part of the Voron ecosystem.
+Rather than replacing the original design philosophy, this project builds on it — keeping the core identity of StealthBurner while exploring new ideas in cooling efficiency, airflow behavior, acoustics, and print performance.
 
-At its core, this project is focused on pushing the platform further through CPAP cooling, iterative engineering, and real-world testing.
+At its core, SB-COM is an engineering experiment driven by curiosity, iteration, and community collaboration. Some ideas may work better than others, but that is part of what makes open-source hardware fun.
+
+If you enjoy testing new concepts, tuning hardware, and pushing printer platforms beyond their original limits, you are probably in the right place.
 
 # Our goal is simple:
 
