@@ -1,4 +1,4 @@
-![Voron](https://img.shields.io/badge/Voron-Compatible-red)
+<img width="4500" height="3480" alt="inputshaper_20260412_184643_axis_X" src="https://github.com/user-attachments/assets/75beffd2-a62c-4d96-ab36-571905e752a9" />![Voron](https://img.shields.io/badge/Voron-Compatible-red)
 ![Toolhead](https://img.shields.io/badge/Toolhead-StealthBurner-black)
 ![Belts](https://img.shields.io/badge/Belts-9mm-green)
 ![Belts](https://img.shields.io/badge/Belts-6mm-green)
@@ -55,6 +55,15 @@ Because sometimes the best designs are the ones that continue to evolve.
 - Chube Mini
 
 ---
+
+# Real World Results: 
+
+Voron Trident 300mm
+LDO 2504 Motors 45mm tall shafts
+48v
+
+<img width="9000" height="3480" alt="sb-com" src="https://github.com/user-attachments/assets/56f15d12-55f7-4e25-a620-5a29bee63482" />
+
 
 ## COM Calibration Method
 
