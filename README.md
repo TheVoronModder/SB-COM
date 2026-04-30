@@ -118,8 +118,7 @@ These are all printed using Ambrosia ASA Filament, please note your filament wei
 
 ---
 
-<img width="5000" height="1200" alt="part list" src="https://github.com/user-attachments/assets/b4520a55-ce8e-440b-a9b1-9cad9e199fc4" />
-
+# More Updates coming soon!
 
 
 MANY THANKS:
