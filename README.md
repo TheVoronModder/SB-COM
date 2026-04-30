@@ -1,4 +1,3 @@
-<img width="4500" height="3480" alt="inputshaper_20260412_184643_axis_X" src="https://github.com/user-attachments/assets/75beffd2-a62c-4d96-ab36-571905e752a9" />![Voron](https://img.shields.io/badge/Voron-Compatible-red)
 ![Toolhead](https://img.shields.io/badge/Toolhead-StealthBurner-black)
 ![Belts](https://img.shields.io/badge/Belts-9mm-green)
 ![Belts](https://img.shields.io/badge/Belts-6mm-green)
