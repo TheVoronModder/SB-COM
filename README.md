@@ -3,7 +3,7 @@
 ![Belts](https://img.shields.io/badge/Belts-6mm-green)
 ![Hotend](https://img.shields.io/badge/Hotend-Rapido%202%20UHF-orange)
 ![Status](https://img.shields.io/badge/Status-Ready-Green)
-![Status](https://img.shields.io/badge/Status-MILF-Purple)
+![Status](https://img.shields.io/badge/Status-MILF-blue)
 -------------------------------------------------------------------------------------------------
 
 
