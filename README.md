@@ -5,7 +5,7 @@
 ![Hotend](https://img.shields.io/badge/Hotend-chcXL-orange)
 ![CPAP](https://img.shields.io/badge/CPAP-Ready-cyan)
 ![Status](https://img.shields.io/badge/Status-Ready-Green)
-![Status](https://img.shields.io/badge/Wife=-MILF-blue)
+![Status](https://img.shields.io/badge/Status-MILF-blue)
 -------------------------------------------------------------------------------------------------
 
 
