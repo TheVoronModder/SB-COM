@@ -1,7 +1,8 @@
-![Toolhead](https://img.shields.io/badge/Toolhead-StealthBurner-black)
-![Belts](https://img.shields.io/badge/Belts-9mm-green)
+![Toolhead](https://img.shields.io/badge/Toolhead-StealthBurner-blue)
+![Belts](https://img.shields.io/badge/Belts-9mm-brightgreen)
 ![Belts](https://img.shields.io/badge/Belts-6mm-green)
 ![Hotend](https://img.shields.io/badge/Hotend-Rapido%202%20UHF-orange)
+![CPAP](https://img.shields.io/badge/CPAP-Ready-cyan)
 ![Status](https://img.shields.io/badge/Status-Ready-Green)
 ![Status](https://img.shields.io/badge/Status-MILF-blue)
 -------------------------------------------------------------------------------------------------
