@@ -9,7 +9,8 @@
 -------------------------------------------------------------------------------------------------
 
 
-<img width="5000" height="1543" alt="Save The StealthBurner" src="https://github.com/user-attachments/assets/9c4654dc-24c3-4824-9c3b-07462d038b1f" />
+<img width="1983" height="793" alt="6af53dad-26da-493d-a6b8-32f6360f21b7" src="https://github.com/user-attachments/assets/032ec959-1512-4ed3-a886-1e73b4e940b6" />
+
 
 # Save the StealthBurner
 
